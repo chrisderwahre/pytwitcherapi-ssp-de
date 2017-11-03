@@ -1,0 +1,1 @@
+Du kannst diesen Code für alles verwenden, ohne Credit usw.. Es wäre aber nett!
