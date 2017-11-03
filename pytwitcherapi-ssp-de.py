@@ -38,4 +38,4 @@
                      client.send_msg("Papier, unentschieden! DansGame")
 
         if m.text == "command ssp help":
-            client.send_msg("Hier die Regeln: https://pastebin.com/14yU0p8j")
+            client.send_msg("Hier die Regeln: https://pastebin.com/ppcBztHa")
