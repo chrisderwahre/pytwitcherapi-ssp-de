@@ -1,3 +1,5 @@
+ from random import randint
+        
         if m.text == "command schere":
                 i = randint(1, 3)
                 print(i)
